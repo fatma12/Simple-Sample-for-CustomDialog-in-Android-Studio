@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomDialog</string>
+    <string-array name="names">
+        <item>Fatma Akyıldırım</item>
+        <item>Tekin Akyıldırım</item>
+        <item>Zeynep Akyıldırım</item>
+    </string-array>
+</resources>
